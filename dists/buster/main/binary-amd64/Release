@@ -1,0 +1,5 @@
+Archive: testing
+Component: main
+Origin: Halium
+Architecture: amd64
+Description: Kernel packages from Halium
