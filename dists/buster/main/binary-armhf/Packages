@@ -1,6 +1,6 @@
 Package: linux-headers-3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6
 Source: linux-upstream
-Version: 3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6-2
+Version: 3.18.36-3
 Architecture: armhf
 Maintainer: Jonah Brüchert <jbb@kaidan.im>
 Installed-Size: 46351
@@ -8,11 +8,11 @@ Provides: linux-headers, linux-headers-2.6
 Homepage: http://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6_3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6-2_armhf.deb
-Size: 7215204
-SHA256: 8980d9abe9d259bad429d6a0a0537c7fc8f7a7bf08ae74317ff40cf75c19ebfa
-SHA1: 6f0640e9156a2164cc9e78fbd6e9fdae8d839ec4
-MD5sum: 06566adb8b334dbc32f5ea5db42b1263
+Filename: pool/main/l/linux-upstream/linux-headers-3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6_3.18.36-3_armhf.deb
+Size: 7213580
+SHA256: aee53b29bc3c96c0cc6729e86415692473d1b1181205fdd2f839ee736c5f5b14
+SHA1: e86ea877135f7bb641a5c66bf87712b8e19652db
+MD5sum: 2f23e8be81c3493839a276ce0a39f8d9
 Description: Linux kernel headers for 3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6 on armhf
  This package provides kernel header files for 3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6 on armhf
  .
@@ -20,7 +20,7 @@ Description: Linux kernel headers for 3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363
 
 Package: linux-image-3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6
 Source: linux-upstream
-Version: 3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6-2
+Version: 3.18.36-3
 Architecture: armhf
 Maintainer: Jonah Brüchert <jbb@kaidan.im>
 Installed-Size: 22674
@@ -29,37 +29,37 @@ Provides: linux-image, linux-image-2.6, linux-modules-3.18.36-perf-bq-chaozu-g1c
 Homepage: http://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6_3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6-2_armhf.deb
-Size: 10059640
-SHA256: c16dd1c0addfd609afcfbb0bd5e8b73d655944b12ea19157f175cdd56b3f20a8
-SHA1: 890bfcc1274fbd15267780a95fc6685c20d31d42
-MD5sum: bcdf5bbf8a356e1d02f30b4dec4d2ba1
+Filename: pool/main/l/linux-upstream/linux-image-3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6_3.18.36-3_armhf.deb
+Size: 10059084
+SHA256: 9839f550a49cbca4f83f84cde65006db35429af7f78f39d09e55fe331d755449
+SHA1: bfb333d185fe76a98368d2879e5ee5179208a2e2
+MD5sum: 1a03911dadba7046cbd86669dffaa5c3
 Description: Linux kernel, version 3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6
  This package contains the Linux kernel, modules and corresponding other
  files, version: 3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6.
 
 Package: linux-image-3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6-dbg
 Source: linux-upstream
-Version: 3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6-2
+Version: 3.18.36-3
 Architecture: armhf
 Maintainer: Jonah Brüchert <jbb@kaidan.im>
-Installed-Size: 179702
+Installed-Size: 179703
 Provides: linux-debug, linux-debug-3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6
 Homepage: http://www.kernel.org/
 Priority: optional
 Section: debug
-Filename: pool/main/l/linux-upstream/linux-image-3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6-dbg_3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6-2_armhf.deb
-Size: 45271376
-SHA256: b8c5a5d7c0d2767af1482f0c635d353aa53e28c413b7fe5e0505091f94f52bd0
-SHA1: 08fb0f8ef8f3b4adeabd6fb547a7dba2d2b29ab3
-MD5sum: 89524852c497ec209cf7b59dad0c1ebf
+Filename: pool/main/l/linux-upstream/linux-image-3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6-dbg_3.18.36-3_armhf.deb
+Size: 45275060
+SHA256: 5be96202677d7969f5a07486083dffc6f60fc8209d9275850d096e610498ccc9
+SHA1: a7d76a3f0d5cb34aa50e326d236dd1354846db85
+MD5sum: ec864c33e84c908d7eeaceae3e78febd
 Description: Linux kernel debugging symbols for 3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6
  This package will come in handy if you need to debug the kernel. It provides
  all the necessary debug symbols for the kernel and its modules.
 
 Package: linux-libc-dev
 Source: linux-upstream
-Version: 3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6-2
+Version: 3.18.36-3
 Architecture: armhf
 Maintainer: Jonah Brüchert <jbb@kaidan.im>
 Installed-Size: 4757
@@ -67,11 +67,11 @@ Provides: linux-kernel-headers
 Homepage: http://www.kernel.org/
 Priority: optional
 Section: devel
-Filename: pool/main/l/linux-upstream/linux-libc-dev_3.18.36-perf-bq-chaozu-g1c0071ae7c0c-27363-gbf4647be2ba6-2_armhf.deb
-Size: 908008
-SHA256: 19e29b11b67939f0c7250c0d98855514944c42a1cf61b13c9c22f9de5ca124dc
-SHA1: a1c0fdb00b0654897f57653e5f92ba2bc8901680
-MD5sum: 7e1c86e743852efec8e85ab8c81d3d6d
+Filename: pool/main/l/linux-upstream/linux-libc-dev_3.18.36-3_armhf.deb
+Size: 907940
+SHA256: 25e32096160634cbc132afade3c88010fd96ef2392e3183d04c47b592b2b03e9
+SHA1: 113e3075de5fd4419b0cb37bb7984b8e2fef6263
+MD5sum: e3fd793f9742a1bfed4537df1c3ee0d1
 Description: Linux support headers for userspace development
  This package provides userspaces headers from the Linux kernel.  These headers
  are used by the installed headers for GNU glibc and other system libraries.

@@ -4,13 +4,13 @@ Hash: SHA512
 Origin: Halium
 Suite: testing
 Codename: buster
-Date: Mon, 02 Jul 2018 10:35:59 UTC
+Date: Tue, 03 Jul 2018 10:26:13 UTC
 Architectures: armhf arm64 amd64 i386
 Components: main
 Description: Kernel packages from Halium
 MD5Sum:
- 2314fdbddcf0713eb56150389ca2d1b7 3952 main/binary-armhf/Packages
- 4209ea2e39fd3f704bfffe8ed444b693 1142 main/binary-armhf/Packages.gz
+ b2f48e209d38e036b8ab2122394de558 3560 main/binary-armhf/Packages
+ 663b7902b596e1575f530f3a653c8d85 1129 main/binary-armhf/Packages.gz
  bafd269491f8ce7dfcc2b2dbcc3584b5 109 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
@@ -25,8 +25,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  79bf1214c28401a85c4aad7c3ad5d87e 110 main/source/Release
 SHA1:
- 27c1facaba99129038f0946ed6242671d9366e60 3952 main/binary-armhf/Packages
- eb1e33578c02a056187b1fd951d69b41835f40a4 1142 main/binary-armhf/Packages.gz
+ e4acd2d5bbcc5af2b6ac51b2e0b7d25d91f20f01 3560 main/binary-armhf/Packages
+ cde9c174c8af2ea8e2a476c76ef7cb38d57c4ef8 1129 main/binary-armhf/Packages.gz
  80f9e228e2f7e106a2d7bc0e87e354ecea1c2c86 109 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
@@ -41,8 +41,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  824df7020d676ac3ee52cd820ae5bf363b1197ce 110 main/source/Release
 SHA256:
- 1bc829329101b4cf9ffb130641c9eae974995a0d6075b6f967e0c890f98d52e7 3952 main/binary-armhf/Packages
- c53d2daa0b43783226f807a286b873187a03138bc2e4a1d2a0f561b4b02fe15e 1142 main/binary-armhf/Packages.gz
+ 0963bc3003e6b32441d46d8f4b989f64d361e23b11070abe21da0e37a705beed 3560 main/binary-armhf/Packages
+ d6bb8548040190c45705f2e01961d25be552cd53dde5b67b8ee0246568a7ae03 1129 main/binary-armhf/Packages.gz
  7948dc478cc19aa0d789ed2cf2f7a38f43cd22bb99c12dae752de934603684a8 109 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
@@ -58,17 +58,17 @@ SHA256:
  6960acfa3fe99cb890dc569162097e454a859344b5fb2c65a3b12822a5e9e428 110 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEw9fK+/RCNT+V9p9KqB4HWr7ICn4FAls6ABgACgkQqB4HWr7I
-Cn458xAAsfGyVGgwqzozJEPsy0scPR9uK6VOusaYl3OFfISwKeDLPDs+yZdp3UlL
-Crw61hhZ7s+bK5xvW0aeX9E+Gu5rIQct3EveB930Z1YPvnqG8CxTLtrSXE8AiKF3
-lMu6vDwu/OExhSYXRozIr8LpHSQFtnpghsKq+j8hIbqTzR2NDzUC4qwLi7BruKtF
-Q1GQvEybVMkIUTcQdyzzKoVeYfFaZDFDbT8ol20iQRJTKeDGfFBFLAIF9aX/eB8B
-n3eQutmNl8Q3ha6MLRZumdAzao+6LpDWlHihLpmw30OM8DBBCPUCuOu01bGuflv+
-JUGWEHjWYZbuxyHSjBQosqp53PzPT1ol/QcZmBCbEAJBa4jN6j99FQrqlOQbCyY2
-y24lVuNPrUAr/U2pMh3i1eFeccQJk+6KjSvuIBY8DKZlBxr4R2C7QauqhcpXuxi7
-SyEiRexGS1JNnmPsB/C1MDKILIfI3EOr5FgWYJ9pS3qbdIcTmhV8MaRUfJ2qcpNT
-6pUBM6r1NRQT4vuucnaXU3eeKnFwayTU4KETUgVShslj42pa/tuaLTelDJPvokkn
-dneIATtEvX6ZMg33S/OjKQ3Ow7n0FkVUaB6vsVDl/H3orwwEHgC/BSVxQiqsVFkd
-1DbAtalqetAeEpNBl3gCnuGdzq7rhUarcayzNh/92MpxO2GwrUU=
-=pDw7
+iQIzBAEBCgAdFiEEw9fK+/RCNT+V9p9KqB4HWr7ICn4FAls7T0YACgkQqB4HWr7I
+Cn7v7g//XZmjzDygA8oE0k6U++4X5ZXiQ6BRJhIsftyixKw1TnN77MUhWbkIfOOd
+8lrOCnyTlmcgt9UFXd7CIQS1NYvwmb0cE1oCYbfc9h4rt7wwfuKKg/xu1WG50v9D
+UsGnLCtkoS/KfWxJgc7S7uVmDzX9hOKD0nXaWQt1uMGXPjk1WoPH5SjTs7byXNCA
+HZp/aXziazqEoHq3oR16nipQadUYd99vs3zXBdGUC1EKnzA2jUEYXWV/QWzanvl5
+MZcw4eL2uIG6/adsk3lPuVCVImOgS9h/NJmdndywTgwuNrOmcz2/oEwRDsk8ijiE
+6eYOp1Td8gVNICwiaGjcoG0198B3p8TVMfs9nFLCfD6KMpGd1WWiZJgLAWOyVoAM
+WfLpPC3aCGSRVZ4XFp7J+KVcsrHveikV9FReZlXTswew2QegN0yEIHuij7rhCv4a
+7NbkoAsIgYSg475sFcKZo34K+x4MoqvCYG32b6vzAH75k0tKLCLPLNAf6v23FM5r
+CuPD2dzUeN7jimy7QVL/umsZU1PvAj5o3+Tjq7POqWuKowe/YLGH+Mte9haHkbfh
+ZXj/rj7IYMyuihHwL67T7fYwCvU+7OSTexJEJFQ0MmIMrPHQfUtr/bc297fG7jwz
+L/uvWuTra92cfUZB2T0I4c+OnRlukbBedR4ccG4KLrkGieLC5Q0=
+=TPsU
 -----END PGP SIGNATURE-----
